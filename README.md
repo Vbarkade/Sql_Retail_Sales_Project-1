@@ -89,5 +89,5 @@ Retail_Sales_Analysis/
 ## 🙋‍♂️ Author
 
 **Vaibhav Barkade**  
-Beginner Data Analyst  
+Data Analyst  
 Building practical SQL projects using real-world data.
